@@ -2,7 +2,7 @@
 
 [![MythX](https://badgen.net/https/api.mythx.io/v1/projects/63496fed-adcb-4e48-bc10-43a1b9619985/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](#)
 [![InterFi Audit](https://badgen.net/badge/InterFi%20Audit/pending/grey?icon=github)](#)
-[![a](https://badgen.net/badge/Statistics/0%20Snipes%20from%200%20Snipers/blue?icon=bitcoin-lightning&cache=300)](#)
+[![a](https://badgen.net/https/iadeo0v2gh.execute-api.ap-southeast-1.amazonaws.com/default/mdtStatisticsBadgen?cache=300&icon=bitcoin-lightning)](#)
 
 This repository contains the core smart contracts of [mdtProtocol](https://mdt.gg/) project.
 
