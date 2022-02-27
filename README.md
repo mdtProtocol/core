@@ -1,6 +1,6 @@
 # mdtProtocol Core
 
-[![MythX](https://badgen.net/https/api.mythx.io/v1/projects/c23a88d0-d829-4112-8780-693eaa9e8153/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](#)
+[![MythX](https://badgen.net/https/api.mythx.io/v1/projects/63496fed-adcb-4e48-bc10-43a1b9619985/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](#)
 [![InterFi Audit](https://badgen.net/badge/InterFi%20Audit/pending/grey?icon=github)](#)
 [![a](https://badgen.net/badge/Statistics/0%20Snipes%20from%200%20Snipers/blue?icon=bitcoin-lightning&cache=300)](#)
 
