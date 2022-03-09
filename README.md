@@ -14,6 +14,8 @@ This repository contains the core smart contracts of [mdtProtocol](https://mdt.g
 
 - **v1.0.0 :** [0xF4b0Aad56c9d1752983881c1F40F9a5AaE790c11](https://bscscan.com/address/0xf4b0aad56c9d1752983881c1f40f9a5aae790c11#code)
 
+- **v1.1.0 :** [0xD7B9e890efB071E5E8308F27E7B2D68d1Ff0dD14](https://bscscan.com/address/0xd7b9e890efb071e5e8308f27e7b2d68d1ff0dd14#code)
+
 **mdtProxy.sol :** [0xc72cB9584bf1C7d1A9422466823c562077126f65](https://bscscan.com/address/0xc72cB9584bf1C7d1A9422466823c562077126f65#code)
 
 ## Licensing
