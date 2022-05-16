@@ -4,6 +4,9 @@
 [![InterFi Audit](https://badgen.net/badge/InterFi%20Audit/passed/green?icon=github)](https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/mdtProtocol_AuditReport_InterFi.pdf)
 ![mdtStatistics](https://badgen.net/https/iadeo0v2gh.execute-api.ap-southeast-1.amazonaws.com/default/mdtStatisticsBadgen?cache=300&icon=bitcoin-lightning)
 
+[![mdtApp Release](https://badgen.net/github/release/mdtProtocol/bot/stable)](https://github.com/mdtProtocol/bot/releases)
+[![mdtApp Downloads](https://badgen.net/github/assets-dl/mdtProtocol/bot)](https://github.com/mdtProtocol/bot/releases/latest)
+
 This repository contains the core smart contracts of [mdtProtocol](https://mdt.gg/) project.
 
 ## BSC Mainnet Deployment
